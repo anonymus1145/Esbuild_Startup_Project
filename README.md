@@ -10,7 +10,8 @@ This project is a preconfigured setup using esbuild, TypeScript, and Tailwind CS
 ## Getting Started
 1. Clone this repository: `git clone <repository-url>`
 2. Install dependencies: `npm install`
-3. Build the project: `npm run build`
+3. Install esbuild: ` npm install --save-dev esbuild`
+4. Build the project: `npm run build`
 
 ## Project Structure
 - `src/`: Contains the source code files for your application.
